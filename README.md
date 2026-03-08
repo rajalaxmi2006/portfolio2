@@ -29,8 +29,7 @@ This project is designed to present personal and professional information in a s
 portfolio/
 ├── index.html
 ├── style.css
-├── script.js
-└── assets/
+├── rajalaxmi.jpg
 ```
 ## 🎯 Purpose
 This portfolio was created to:
