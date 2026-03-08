@@ -31,13 +31,13 @@ portfolio/
 ├── style.css
 ├── rajalaxmi.jpg
 ```
-## 🎯 Purpose
+## Purpose
 This portfolio was created to:
 - Showcase my web development projects
 - Practice frontend development skills
 - Build an online presence for internships and job opportunities
 
-## 📬 Contact
+## Contact
 - GitHub: https://github.com/rajalaxmi2006
 - Email: biswalrajalaxmi901@gmail.com
 - Linkedin: www.linkedin.com/in/rajalaxmi-biswal-90652337b
